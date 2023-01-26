@@ -18,6 +18,8 @@ klo 12.07 käytin grep -komentoa etsiäkseni tietoa tekstitiedosta eri avainsano
 
 # c) Pipe
 
+## klo 12.15
+
 Putkilla pystytään syöttämään tietoa yhdestä tiedostosta, scriptistä, tulostuksesta inputiksi toiseen. 
 
 esim. 
