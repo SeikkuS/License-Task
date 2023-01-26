@@ -12,7 +12,7 @@ Kaikki kolme ovat vapaita lisenssejä
 
 # b)
 
-klo 12.07 käytin grep -komentoa etsiäkseni tietoa tekstitiedosta eri avainsanoilla tai kirjaimilla. Tässä testissä kokeilin etsiä tietoa grep -E -komennolla (regex). 
+klo 12.07 käytin grep -komentoa etsiäkseni tietoa tekstitiedosta eri avainsanoilla tai kirjaimilla. Tässä testissä kokeilin etsiä tietoa grep -E -komennolla (regex). Tein sitä varten oman tekstitiedoston, josta hain tietoa.
 
 ![kuva](https://user-images.githubusercontent.com/105205141/214809667-b4520b4c-358a-43e2-b34c-8df9842b5ff2.png)
 
