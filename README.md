@@ -5,26 +5,27 @@
 
 Vapaat ohjelmistot ovat ohjelmistoja, jotka kunnioittavat käyttäjien vapautta ja yhteisöllisyyttä. Se tarkoittaa sitä, että käyttäjillä on vapaus käyttää, kopioida, jakaa, tutkia, muuttaa ja kehittää ohjelmistoa.
     
-    Ohjelma katsotaan vapaaksi ohjelmistoksi, jos ohjelman käyttäjillä on neljä olennaista vapautta: 
+Ohjelma katsotaan vapaaksi ohjelmistoksi, jos ohjelman käyttäjillä on neljä olennaista vapautta: 
     
-    1. vapaus ajaa ohjelmaa haluamallaan tavalla
+1. vapaus ajaa ohjelmaa haluamallaan tavalla
     
-    2. Vapaus tutkia ja muuttaa ohjelmaa
+2. Vapaus tutkia ja muuttaa ohjelmaa
     
-    3. vapaus levittää ja kopioida versioita 
+3. vapaus levittää ja kopioida versioita 
     
-    4. Vapaus levittää muokattuja versioita.
+4. Vapaus levittää muokattuja versioita.
 
 ## Rise of Open Source: 5 Open Source Licenses as Alternative Governance Mechanisms: 5.1.1 - 5.1.4 (sivu 113 - 121)
 
 Kirjoituksessa käsitellään seuraavia asioita:
 
-    - Avoimen lähdekoodin lisenssien vaatimuksia suhteessa tekijänoikeuslakiin
+- Avoimen lähdekoodin lisenssien vaatimuksia suhteessa tekijänoikeuslakiin
     
-    - Avoimen lähdekoodin lisenssien on sallittava ohjelmiston kopiointi, jakelu ja muokkaaminen, mikä on ristiriidassa ohjelmistoteollisuuden perinteisen ajattelun kanssa
-    - Avoimen lähdekoodin lisenssit eivät aseta vaatimuksia lisenssien yhteensopivuuksille, takuille tai muodollisuuksille
+- Avoimen lähdekoodin lisenssien on sallittava ohjelmiston kopiointi, jakelu ja muokkaaminen, mikä on ristiriidassa ohjelmistoteollisuuden perinteisen ajattelun kanssa
     
-    - Avoimen lähdekoodin lisenssit eivät aseta vaatimuksia patenteille
+- Avoimen lähdekoodin lisenssit eivät aseta vaatimuksia lisenssien yhteensopivuuksille, takuille tai muodollisuuksille
+    
+- Avoimen lähdekoodin lisenssit eivät aseta vaatimuksia patenteille
     
 
 
